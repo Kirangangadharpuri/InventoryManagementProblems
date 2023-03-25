@@ -1,0 +1,27 @@
+{
+    "Stock1": [
+        {
+            "name": "Tata",
+            "weight": 4,
+            "price": 520
+        }
+
+
+    ],
+
+    "Stock2": [
+        {
+            "name": "Birla",
+            "weight": 3,
+            "price": 700
+        }
+    ],
+
+    "Stock3": [
+        {
+            "name": "Ambani",
+            "weight": 5,
+            "price": 600
+        }
+    ]
+}
