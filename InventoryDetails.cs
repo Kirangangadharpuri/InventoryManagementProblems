@@ -17,24 +17,24 @@ namespace InventoryManagement1
 
     public class Stock1
     {
-        public string name;
-        public int weight;
+        public string shareName;
+        public int NumberShares;
         public int price;
 
     }
 
     public class Stock2
     {
-        public string name;
-        public int weight;
+        public string shareName;
+        public int NumberShares;
         public int price;
 
     }
 
     public class Stock3
     {
-        public string name;
-        public int weight;
+        public string shareName;
+        public int NumberShares;
         public int price;
 
     }
